@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A frontend developer with a strange love of problem solving!</h3>
 
-- ✔️ Currently working on: https://github.com/MichalKaso/React-Native---Tesla-App-Clone
+- ✔️ Currently working on: https://github.com/MichalKaso/Casso-Bank-LTD
 
 - 🥇 Latest Project: https://github.com/MichalKaso/BrokenString-ecommerce
 
